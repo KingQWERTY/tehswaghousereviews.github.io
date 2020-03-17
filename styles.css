@@ -1,6 +1,6 @@
 @font-face {
-  font-family: "Roboto";
-  src: url(https://fonts.googleapis.com/css?family=Roboto);
+  font-family: "Roboto", monospace, sans-serif;
+  src: url("https://fonts.googleapis.com/css?family=Roboto");
 }
 
 .overlay {
@@ -55,7 +55,7 @@
 }
 body {
 	background-color: white;
-	font-family: Roboto;
+	font-family: "Arial";
 }
 #site-nav {
 	background-color: #333;
